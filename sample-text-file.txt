@@ -1,1 +1,2 @@
-A sample text file
+A sample text file updated with the below lines
+Yes ! trigger me now !
